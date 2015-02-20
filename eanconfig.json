@@ -1,0 +1,5 @@
+{
+  "inputfile": "EANnotfoundFinal.csv",
+  "mainoutput": "EANmainoutput.json",
+  "errlistoutput": "EANerrlistoutput.json"
+}
